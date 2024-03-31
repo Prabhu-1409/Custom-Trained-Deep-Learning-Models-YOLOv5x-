@@ -1,0 +1,28 @@
+names:
+- Button
+- Capacitor Jumper
+- Capacitor
+- Clock
+- Connector
+- Diode
+- EM
+- Electrolytic Capacitor
+- Ferrite Bead
+- IC
+- Inductor
+- Jumper
+- Led
+- Pads
+- Pins
+- Resistor Jumper
+- Resistor Network
+- Resistor
+- Switch
+- Test Point
+- Transistor
+- Unknown Unlabeled
+- iC
+nc: 23
+path: /content/pcbcomponent/pcbcomponent/
+train: /content/pcbcomponent/pcbcomponent/train/
+val: /content/pcbcomponent/pcbcomponent/valid/

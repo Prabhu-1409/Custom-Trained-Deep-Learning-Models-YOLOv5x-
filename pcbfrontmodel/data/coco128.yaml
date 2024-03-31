@@ -1,0 +1,8 @@
+names:
+- Insufficient solder
+- Missing component
+- Soldering shorted
+nc: 3
+path: /content/pcbfrontdefect/
+train: /content/pcbfrontdefect/train/
+val: /content/pcbfrontdefect/valid/
